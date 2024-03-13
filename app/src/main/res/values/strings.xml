@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">valuta</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="kazKZT">KZT</string>
+    <string name="indianINR">INR</string>
+    <string name="moroccanMAD">MAD</string>
+    <string name="koreaKRW">KRW</string>
+
+    <string name="kaz">Khazakhstan\nTenge</string>
+    <string name="indian">Indian\nRupee</string>
+    <string name="moroccan">Moroccan\nDirham</string>
+    <string name="korean">South Korean\nWon</string>
+
+    <string name="astana">Astana</string>
+    <string name="new_deli">New Delhi</string>
+    <string name="rabat">Rabat</string>
+    <string name="seoul">Seoul</string>
+
+    <string name="flag">flag</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    </style>
+
+    <color name="BOMBA">#62639B</color>
+    <color name="BOMBA1">#003153</color>
+    <color name="BOMBA2">#6495ED</color>
+
+
+</resources>
